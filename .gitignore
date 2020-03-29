@@ -1,0 +1,27 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+react-crud/node_modules
+react-crud/.pnp
+react-crud/.pnp.js
+
+# testing
+react-crud/coverage
+
+# production
+react-crud/build
+
+# misc
+react-crud/.DS_Store
+react-crud/.env.local
+react-crud/.env.development.local
+react-crud/.env.test.local
+react-crud/.env.production.local
+
+react-crud/npm-debug.log*
+react-crud/yarn-debug.log*
+react-crud/yarn-error.log*
+react-crud/package-lock.json
+
+nodejs-express-sequelize-postgresql/node_modules
+nodejs-express-sequelize-postgresql/package-lock.json
